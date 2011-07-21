@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/archie/!svn/ver/60/lib/AnnotationController
+END
+getRecent.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/archie/!svn/ver/60/lib/AnnotationController/getRecent.php
+END
+getAnnos.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/archie/!svn/ver/60/lib/AnnotationController/getAnnos.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/archie/!svn/ver/60/lib/AnnotationController/index.php
+END
+loginAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/archie/!svn/ver/60/lib/AnnotationController/loginAdmin.php
+END
+getSets.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/archie/!svn/ver/18/lib/AnnotationController/getSets.php
+END
+removeAnno.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/archie/!svn/ver/60/lib/AnnotationController/removeAnno.php
+END
+ArchieAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archie/!svn/ver/60/lib/AnnotationController/ArchieAdmin.php
+END
+recentAnnoControl.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archie/!svn/ver/60/lib/AnnotationController/recentAnnoControl.php
+END
+AnnotationController.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/archie/!svn/ver/18/lib/AnnotationController/AnnotationController.js
+END
+SQAAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/archie/!svn/ver/18/lib/AnnotationController/SQAAdmin.php
+END

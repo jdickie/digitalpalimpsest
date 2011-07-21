@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/archie/!svn/ver/61/lib/Register
+END
+regHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/archie/!svn/ver/61/lib/Register/regHeader.php
+END
+verify.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/archie/!svn/ver/60/lib/Register/verify.php
+END
+checkUserExists.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/archie/!svn/ver/18/lib/Register/checkUserExists.php
+END

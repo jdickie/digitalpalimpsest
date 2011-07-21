@@ -1,0 +1,25 @@
+body{
+	font-family: helvetica,arial;
+}
+.pv_annoList{
+	background-color: #7b7b7b;
+	width: 40%;
+	margin-left: 5em;
+}
+.pv_Page{
+	list-style: none;
+	padding: 1em;
+	margin-left: 3em;
+	margin-bottom: 1em;
+	font-size: 14px;
+	border-bottom: solid 5px black;
+}
+.pv_AnnoItem{
+	padding: .5em;
+	text-decoration: none;
+	list-style: none;
+}
+.pv_annoLink{
+	padding:1em;
+	color: blue;
+}

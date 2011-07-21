@@ -1,0 +1,22 @@
+How the Manifest for Archimedes Palimpsest Works:
+
+A. Abstract Structure for "Global Manifest"
+-The Global Manifest is used by the SelectWorks object to group together
+pages in the Palimpsest and associate those pages with their content, 
+title, and author.
+<doc>
+	<base path="../pathtomanifest"/>
+	<work id="abc">
+	<--Title-->
+		<title>Commentary on Aristotle's Categories</title>
+		<---Author-->
+		<author who="Alex">Alexander of Aphrodisias</author>
+		<--Index of Page Content-->
+		<index>
+			<page id="abc123" path="143r-146v">143-146v</page>
+			[...]
+		</index>
+	</work>
+</doc>
+
+B. Manifests for single pages

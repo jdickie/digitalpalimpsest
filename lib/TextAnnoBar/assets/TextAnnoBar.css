@@ -1,0 +1,31 @@
+div.textAnnoBar {
+	
+	top: 90px;
+	right: 10px;
+	width:300px;
+	color: #fff;
+	position: absolute;
+	background: url('./images/prompt_bkgd.png') no-repeat top right;
+	color: #fff;
+	width: 300px;
+	z-index: 100;
+	font-size: 11px;
+}
+div.textAnnoBarContent{
+	background: url('./images/prompt_btm.png') no-repeat bottom right;
+	padding: 0 15px 10px 15px;;
+	padding-top: 0;
+	position: relative;
+	top: 10px;
+}
+
+#startMark{
+	
+	padding-left: 9px;
+	background: url("./images/anno_start.png") no-repeat left;
+}
+#endMark{
+	float: left;
+	width: 9px;
+	background: url("./images/anno_end.png") no-repeat right;
+}

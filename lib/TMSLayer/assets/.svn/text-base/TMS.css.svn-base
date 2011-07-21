@@ -1,0 +1,13 @@
+/**
+ * For TMSLayer and SubLayer objects
+ */
+
+ .sublayer_loadingspan{
+ 	position:absolute;
+	left:50%;
+	top:50%;
+	font-size:larger;
+	background: transparent;
+	color:white;
+	margin:2px;
+ }

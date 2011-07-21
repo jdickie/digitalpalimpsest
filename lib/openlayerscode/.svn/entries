@@ -1,0 +1,133 @@
+10
+
+dir
+378
+http://peach.umd.edu/svn/archie/lib/openlayerscode
+http://peach.umd.edu/svn/archie
+
+
+
+2009-11-02T16:20:40.685996Z
+127
+gdickie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f80c331-4431-43cf-9818-4db1cf6ed327
+
+apidoc_config
+dir
+
+art
+dir
+
+news.txt
+file
+
+
+
+
+2009-10-06T19:23:08.000000Z
+7d4cc1bc9d14904e46af66f0d34c7613
+2009-10-06T19:23:08.639241Z
+33
+gdickie
+
+doc_config
+dir
+
+OpenLayers.js
+file
+
+
+
+
+2009-10-06T19:23:08.000000Z
+9b9f0da1de61a42bf94e0f1c335bd42a
+2009-10-06T19:23:08.639241Z
+33
+gdickie
+
+build
+dir
+
+license.txt
+file
+
+
+
+
+2009-10-06T19:23:08.000000Z
+1eabdb82cff1e565d04c6e301787dd27
+2009-10-06T19:23:08.639241Z
+33
+gdickie
+
+tools
+dir
+
+tests
+dir
+
+theme
+dir
+
+doc
+dir
+
+lib
+dir
+
+readme.txt
+file
+
+
+
+
+2009-10-06T19:23:08.000000Z
+3725b49a3de8e39d05aa4e426efb2537
+2009-10-06T19:23:08.639241Z
+33
+gdickie
+
+img
+dir
+
+repository-license.txt
+file
+
+
+
+
+2009-10-06T19:23:08.000000Z
+fa32440c2e3f8214e5e05de8a9567973
+2009-10-06T19:23:08.639241Z
+33
+gdickie
+
+release-license.txt
+file
+
+
+
+
+2009-10-06T19:23:08.000000Z
+fa32440c2e3f8214e5e05de8a9567973
+2009-10-06T19:23:08.639241Z
+33
+gdickie
+
+examples
+dir
+

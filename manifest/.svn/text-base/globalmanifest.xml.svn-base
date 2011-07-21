@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<doc base="./manifest/">
+<manifest uri="0000-100r-manifest.xml">
+	<title name="Page 1"/>
+</manifest>
+<manifest uri="116v-111r-manifest.xml">
+	<title name="Page 16"/>
+</manifest>
+</doc>

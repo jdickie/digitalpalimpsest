@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/archie/!svn/ver/61/lib/Annotation
+END
+annoSetImport.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/archie/!svn/ver/60/lib/Annotation/annoSetImport.php
+END
+retrieveAnno.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/archie/!svn/ver/11/lib/Annotation/retrieveAnno.php
+END
+changeAnnoText.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/archie/!svn/ver/13/lib/Annotation/changeAnnoText.php
+END
+annoSetNames.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/archie/!svn/ver/11/lib/Annotation/annoSetNames.php
+END
+AnnoSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/archie/!svn/ver/13/lib/Annotation/AnnoSet.php
+END
+deleteAnno.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/archie/!svn/ver/11/lib/Annotation/deleteAnno.php
+END
+changeAnno.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/archie/!svn/ver/11/lib/Annotation/changeAnno.php
+END
+showAnno.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/archie/!svn/ver/11/lib/Annotation/showAnno.php
+END
+annoSetExport.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/archie/!svn/ver/13/lib/Annotation/annoSetExport.php
+END
+saveAnno.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/archie/!svn/ver/13/lib/Annotation/saveAnno.php
+END
+cMA.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/archie/!svn/ver/60/lib/Annotation/cMA.php
+END
+saveAnnoSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/archie/!svn/ver/11/lib/Annotation/saveAnnoSet.php
+END
+Annotation.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/archie/!svn/ver/13/lib/Annotation/Annotation.js
+END

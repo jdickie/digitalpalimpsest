@@ -1,0 +1,196 @@
+/*Archie.css
+ * for Archie project
+ */
+
+body {
+	margin: 0;
+	background: #000;
+	font-family: "Lucida Grande", "Verdana", "Arial", sans-serif;
+}
+#user_menu {
+	color: #FFF;
+}
+#header {
+	height: 50px;
+	background: #630000 url('../../images/bkgd_header.gif') repeat-x;
+}
+img {
+	border: 0;
+}
+#header_links {
+	float: right;
+}
+#header_links li {
+	display: inline;
+}
+
+#header_links a {
+	color: #fff;
+	font-size: 14px;
+	text-decoration: none;
+	font-variant: small-caps;
+	padding: 0 .5em;
+}
+#header_links a:hover {
+	text-decoration: underline;
+}
+
+#header input {
+	font-size: 12px;
+	/*border: 0;*/
+}
+#searchbox {
+}
+#header input#search_submit {
+	margin: 0 10px 0 5px;
+}
+
+/*
+iv.panel {
+	background: url('../images/bkgd_70black.png');
+	padding: 5px;
+	width:800px;
+	position: absolute;
+}
+
+*/
+
+/*sideBar*/
+/*------*/
+.sideBar {
+	position: absolute;
+	overflow: auto;
+	height: 100%;
+	width: 17%;
+	background-color: #3B3B3B;
+}
+.sideBarheader {
+	background-color: #818992;
+	display: block;
+	
+}
+/*
+.bd {
+	position: relative;
+	
+overflow: auto;
+
+}
+.ft {
+	position: relative;
+}
+
+
+.panelButton{
+	padding-left: 2px;;
+}
+.registration {
+	background-color: #FFF;
+	
+}
+.regsubmit {
+	background-color: #FFF;
+	
+}
+.left padding {
+	background-color: #FFF;
+}
+*/
+
+
+
+/*
+.zoomWin {
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	background-color: #BFBFBF;
+	border: solid 1px #000;
+	height: 100px;
+	width: 100px;
+	overflow: hidden;
+}
+.innerZoom {
+	position: relative;
+	
+}
+*/
+.imageHolder {
+	position: absolute;
+}
+.textBox {
+	position: absolute;
+	background-color: white;
+	z-index: 33;
+	width: 233px;
+	height: 333px;
+	border-top: solid 3px blue;
+	
+}
+
+
+
+#header {
+	height: 50px;
+	background: #630000 url('../../images/bkgd_header.gif') repeat-x;
+	position: relative;
+	font-family: "Lucida Grande", Tahoma, Arial, Helvetica, sans-serif;
+	font-size: smaller;
+}
+#header a {
+	text-decoration: none;
+}
+#header a:hover {
+	text-decoration: underline;
+}
+img {
+	border: 0;
+}
+#header_links {
+	float: right;
+}
+#header_links li {
+	display: inline;
+}
+
+#header_links a {
+	color: #fff;
+	font-size: 14px;
+	text-decoration: none;
+	font-variant: small-caps;
+	padding: 0 .5em;
+}
+#header_links a:hover {
+	text-decoration: underline;
+}
+
+#header input {
+	font-size: 12px;
+}
+
+/****Loadbar***/
+.load{
+	background: #5d5d5d;
+	font-family: "Lucida Grande", Tahoma, Arial, sans-serif;
+	font-size: 10px;
+	position: absolute;
+	left: 40%;
+	top: 30%;
+	color: #ffffff;
+	background: url('./images/load_bkgd.png') no-repeat top center;
+	width: 300px;
+	height: 150px;
+	border: 5px solid #333;
+	
+}
+.load img{
+	padding:5px;
+	/*background-color: #fff;
+	border: 1px solid #444;*/
+	margin-left: 130px;
+	margin-top: 70px;
+}
+.load p {
+	text-align: center;
+	color: #ccc;
+}

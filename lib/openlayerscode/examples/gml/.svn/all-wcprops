@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/archie/!svn/ver/33/lib/openlayerscode/examples/gml
+END
+line.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archie/!svn/ver/33/lib/openlayerscode/examples/gml/line.xml
+END
+owls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archie/!svn/ver/33/lib/openlayerscode/examples/gml/owls.xml
+END
+multipoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archie/!svn/ver/33/lib/openlayerscode/examples/gml/multipoint.xml
+END
+polygon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archie/!svn/ver/33/lib/openlayerscode/examples/gml/polygon.xml
+END
+multipolygon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/archie/!svn/ver/33/lib/openlayerscode/examples/gml/multipolygon.xml
+END
+point.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/33/lib/openlayerscode/examples/gml/point.xml
+END

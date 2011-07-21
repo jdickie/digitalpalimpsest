@@ -1,0 +1,59 @@
+/*
+ * UserAdmin.css
+ * 
+ * 
+ */
+.itemTable{
+	float: right;
+}
+ .adminTable{
+	position: absolute;
+	background: #982821;
+	border: 2px solid black;
+	width: 800px;
+	height: auto;
+}
+.adminTable_body{
+	background: #b2b1af;
+}
+
+.adminTable_button{
+	background: #ffc548;
+	color: #000000;
+	border: 2.5px groove #000000;
+}
+.adminTable_button:hover{
+	color: #FFFFFF;
+}
+.adminTable_infoHeader{
+	color: #000000;
+	background: #ffc548;
+	border-bottom: 2.5px solid #000000;
+	float: right;
+}
+.adminTable_list{
+	background: #fff;
+	border: 1px solid #4481bb;
+	height: 200px;
+	overflow: auto;
+}
+.adminTable_selectfile{
+	display: block;
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 12px;
+	padding: 1em;
+	border-bottom: #000000 solid 2.5px;
+	border-top: #000000 solid 2.5px;
+}
+.adminTable_selectfile:hover{
+	background: #9db5a8;
+}
+.adminTable_selectfileCheck{
+	display: block;
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 12px;
+	padding: 1em;
+	border-bottom: #000000 solid 2.5px;
+	border-top: #000000 solid 2.5px;
+	background: red;
+}

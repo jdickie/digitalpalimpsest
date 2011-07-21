@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><page>
+<value>158v-159r</value><doc base="158v-159r/1.0.0">
+<layer>365nm - UV</layer>
+<layer>445nm - Blue 1</layer>
+<layer>470nm - Blue 2</layer>
+<layer>505nm - Cyan</layer>
+<layer>530nm - Green 1</layer>
+<layer>570nm - Amber</layer>
+<layer>617nm - Orange</layer>
+<layer>625nm - Red 1</layer>
+<layer>700nm - Red 2</layer>
+<layer>735nm - IR 1</layer>
+<layer>870nm - IR 2</layer>
+<layer>Pseudo.PNG</layer>
+<layer>Pseudosharpie.PNG</layer>
+<layer>Raking Blue Lt</layer>
+<layer>Raking Blue Rt</layer>
+<layer>Raking IR Lt</layer>
+<layer>Raking IR Rt</layer>
+<layer>Tungsten</layer>
+<layer>Color.PNG</layer>
+<layer>UV mono.PNG</layer>
+<layer>UV blue.PNG</layer>
+<layer>XRF Ca Back.PNG</layer>
+<layer>XRF Ca Front.PNG</layer>
+<layer>XRF Cu Back.PNG</layer>
+<layer>XRF Fe Back.PNG</layer>
+<layer>XRF Fe Front.PNG</layer>
+<layer>XRF Ge Back.PNG</layer>
+</doc><pagetext xmluri="158v-159r_Arch28v_TEI_Netz-Wilson.xml"></pagetext><auth>Arch28v</auth>
+</page>

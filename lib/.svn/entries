@@ -1,0 +1,237 @@
+10
+
+dir
+378
+http://peach.umd.edu/svn/archie/lib
+http://peach.umd.edu/svn/archie
+
+
+
+2010-04-28T18:43:06.491774Z
+378
+jdickie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f80c331-4431-43cf-9818-4db1cf6ed327
+
+LayerImage
+dir
+
+ArchPageText
+dir
+
+Panel_deprecated
+dir
+
+PageText
+dir
+
+PanelPrototype
+dir
+
+ImageRegion
+dir
+
+ButtonGroup
+dir
+
+ArchProjectBar
+dir
+
+ImageAnnoManager
+dir
+
+OverlaySwitcher
+dir
+
+ProjectBar
+dir
+
+TextAnnoManager
+dir
+
+PanelButton
+dir
+
+ArchieLoad
+dir
+
+ArchWorkspace
+dir
+
+LoginBar
+dir
+
+Workspace
+dir
+
+OpenLayersDropDown
+dir
+
+TMSLayer
+dir
+
+CropLayer
+dir
+
+AnnoLayerBox
+dir
+
+Crop
+dir
+
+ArchiePanelContent
+dir
+
+OverMap
+dir
+
+Archie_Panel
+dir
+
+Annotation
+dir
+
+Monomyth
+dir
+
+QuartoSelect
+dir
+
+openlayerscode
+dir
+
+ArchSuperPanel
+dir
+
+ArchSelect
+dir
+
+UserAdministrator
+dir
+
+InfoPopUp
+dir
+
+Marker
+dir
+
+Image
+dir
+
+Register
+dir
+
+archie_1.0.js
+file
+398
+
+
+
+2010-05-28T18:32:24.000000Z
+4d3476f5a13792fecb8bdcf030febfcc
+2010-05-28T18:56:45.313980Z
+398
+jdickie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+154764
+
+TextAnnoBar
+dir
+
+QueLines
+dir
+
+XMLDoc
+dir
+
+StateMgr
+dir
+
+Limiters
+dir
+
+AnnoLayer
+dir
+
+LabelBox
+dir
+
+PanelContent
+dir
+
+
+
+delete
+
+ArchDropDown
+dir
+
+DropDown
+dir
+
+ArchieLightbox
+dir
+
+ScreenLink
+dir
+
+ImageAnnoMarker
+dir
+
+Search
+dir
+
+PanelHeader
+dir
+
+Opacity
+dir
+
+Diff
+dir
+
+CropLayerBox
+dir
+
+ArchieOpenLayer
+dir
+
+AnnotationSelect
+dir
+
+AnnotationController
+dir
+

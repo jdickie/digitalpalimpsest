@@ -1,0 +1,97 @@
+.qSelect {
+    position: absolute;
+    left: 10%;
+	top: 8.5%;
+    width: 950px;
+    background: #8b8789 url('../images/bkgd_window.gif') repeat-x;
+    border: 2px solid #fff;
+    font-size: 14px;
+    color: white;
+    height: 440px;
+	z-index:1111;
+}.qSelect_back {
+    position: absolute;
+    left: 13%;
+    top: 15%;
+    width: 950px;
+    background: #8b8789 url('../images/bkgd_window.gif') repeat-x;
+    border: 2px solid #fff;
+    font-size: 14px;
+    color: white;
+    height: 440px;
+}.qSelect_body {
+    border: 2px solid #000;
+    padding: 4px;
+}.qSelect_select {
+    background: #fff;
+    border: 1px solid #4481bb;
+    height: 200px;
+    width: 45%;
+    overflow: auto;
+    color: black;
+}.qSelect_select_item {
+    display: block;
+    font-family: Verdana, Helvetica, Arial;
+    font-size: 12px;
+    padding: 1em;
+    border-bottom: #000 solid 2.5px;
+    border-top: #000 solid 2.5px;
+}.qSelect_select_item:hover {
+    background: #9db5a8;
+    display: block;
+    font-family: Verdana, Helvetica, Arial;
+    font-size: 12px;
+    padding: 1em;
+}.qSelect_select_hover {
+    background: #9db5a8;
+    height: 16px;
+}.qSelect_button {
+    position: absolute;
+    top: 350px;
+    left: 90%;
+}.qSelect_sidebar {
+    float: right;
+    width: 266px;
+    float: right;
+}.qSelect_sampleImage {
+    width: auto;
+    height: 256px;
+    border: 5px solid #fff;
+    background: #6a736d;
+}.qSelect_rightSample {
+    width: auto;
+    height: 256px;
+    float: right;
+    overflow: hidden;
+}.qSelect_leftSample {
+    float: left;
+    width: auto;
+    height: 256px;
+    overflow: hidden;
+}.qSelect_infoDisplay {
+    width: 100%;
+    height: 150px;
+    bottom: 2%;
+    right: 10%;
+    position: absolute;
+}.qSelect_infoSelect {
+    padding: 10px;
+}.qSelect_button {
+    text-transform: uppercase;
+    float: right;
+    color: #444;
+    background: #ddd;
+    border: 1px solid #444;
+    padding: .25em 1.25em;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    cursor: pointer;
+}.qSelect_button_group {
+    height: 26px;
+    width: 700px;
+}.listItem_info {
+    clear: left;
+    width: 650px;
+}

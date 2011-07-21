@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/archie/!svn/ver/361/lib/ProjectBar
+END
+getProjects.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/archie/!svn/ver/60/lib/ProjectBar/getProjects.php
+END
+deleteProject.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/archie/!svn/ver/18/lib/ProjectBar/deleteProject.php
+END
+loadWindows.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/archie/!svn/ver/60/lib/ProjectBar/loadWindows.php
+END
+ProjectBar.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/archie/!svn/ver/361/lib/ProjectBar/ProjectBar.php
+END
+delWindow.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/archie/!svn/ver/18/lib/ProjectBar/delWindow.php
+END
+findExhibit.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/archie/!svn/ver/60/lib/ProjectBar/findExhibit.php
+END
+loadProject.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/archie/!svn/ver/60/lib/ProjectBar/loadProject.php
+END
+findAnnoSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/archie/!svn/ver/18/lib/ProjectBar/findAnnoSet.php
+END
+SaveExhibit.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/archie/!svn/ver/65/lib/ProjectBar/SaveExhibit.php
+END
+ProjectBar_Old.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/archie/!svn/ver/63/lib/ProjectBar/ProjectBar_Old.js
+END
+OpenExhibit.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/archie/!svn/ver/65/lib/ProjectBar/OpenExhibit.php
+END
+ProjectBar.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/archie/!svn/ver/304/lib/ProjectBar/ProjectBar.js
+END
+copyExhibitData.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/archie/!svn/ver/18/lib/ProjectBar/copyExhibitData.php
+END
+writeProject.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/archie/!svn/ver/60/lib/ProjectBar/writeProject.php
+END
+eraseProject.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/archie/!svn/ver/18/lib/ProjectBar/eraseProject.php
+END

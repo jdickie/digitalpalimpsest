@@ -1,0 +1,96 @@
+/* global styles  --------------------------------------- */
+body {
+    margin: 0;
+    background: #291f1a;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+}img {
+    border: 0;
+}h4 {
+	color:#623f2d;
+	font-weight:normal;
+	text-transform:uppercase;
+}img {
+    border: 0;
+}.italics {
+	font-style:italic;
+}label, .legend {
+	color:#feecc7;	
+}.clear {
+    clear: both;
+}/* header styles  --------------------------------------- */
+#header {
+    height: 70px;
+    background: #e9dab9;
+    position: relative;i
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: smaller;
+	min-width:900px;
+}#header a {
+    text-decoration: none;
+}#header a:hover {
+    text-decoration: underline;
+}#header_links {
+    float: right;
+}#header_links li {
+    display: inline;
+}#header_links a {
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    font-variant: small-caps;
+    padding: 0 .5em;
+}#header_links a:hover {
+    text-decoration: underline;
+}#header input {
+    font-size: 12px;
+}#header input#search_submit {
+    margin: 0 10px 0 5px;
+}.header_Archie {
+	background: #e9dab9;
+}
+/* `Clear Floated Elements
+----------------------------------------------------------------------------------------------------*/
+/* http://sonspring.com/journal/clearing-floats */
+.clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+/* http://perishablepress.com/press/2008/02/05/lessons-learned-concerning-the-clearfix-css-hack */
+.clearfix:after {
+	clear: both;
+	content: ' ';
+	display: block;
+	font-size: 0;
+	line-height: 0;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}* html .clearfix {
+	height: 1%;
+}
+/* unused styles??  --------------------------------------- */
+#user_menu {
+    color: #FFF;
+}.sideBar {
+    position: absolute;
+    overflow: auto;
+    height: 100%;
+    width: 17%;
+    background-color: #3B3B3B;
+}.sideBarheader {
+    background-color: #818992;
+    display: block;
+}.imageHolder {
+    position: absolute;
+}.textBox {
+    position: absolute;
+    background-color: white;
+    z-index: 33;
+    width: 233px;
+    height: 333px;
+    border-top: solid 3px blue;
+}

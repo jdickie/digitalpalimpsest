@@ -1,0 +1,40 @@
+/* limit panel general styles  --------------------------------------- */
+.limitBox {	
+	float: left;
+	margin-left:15px;
+	width: auto;
+	background-color: #D2B89c;
+	padding: 10px;
+	font-size: 11px;
+	color:#291f1a;
+	border:1px solid #feecc7;
+}
+/* limit detailed styles  --------------------------------------- */
+.limiterRemove {
+	font-size: 10px;
+	margin-left: 10px;
+	cursor: pointer;
+}.limiterRemove:hover {
+	text-decoration: underline;
+}.limiter_button {
+	margin-left: 2px;
+	cursor: pointer;
+	background:#aadde1;
+	border:1px solid #feecc7;
+	padding:2px 5px 2px 5px;
+}.limiter_button:hover {
+	text-decoration: underline;
+}.Limiter_addLimit label {
+	text-transform:uppercase;
+	color:#291f1a;
+}.Limiter_addLimit select {
+	margin:5px 0px 10px 0;
+}
+/* unused styles??  --------------------------------------- */
+.limitItem {
+	margin-bottom: 10px;
+}
+.limitItem select {
+	max-width: 150px;
+	margin-right: 5px;
+}

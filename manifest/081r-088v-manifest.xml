@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page>
+<value>081r-088v</value>
+<doc base="081r-088v/1.0.0">
+<layer>365nm - UV</layer>
+<layer>445nm - Blue 1</layer>
+<layer>470nm - Blue 2</layer>
+<layer>505nm - Cyan</layer>
+<layer>530nm - Green 1</layer>
+<layer>570nm - Amber</layer>
+</doc>
+<doc base="0000-088v/1.0.0">
+<layer>Heiberg UV</layer>
+<layer folder="Heibergvisible">Heiberg</layer>
+</doc>
+
+<pagetext xmluri="081r-088v_Arch03r_TEI_Netz-Wilson.xml"></pagetext><auth>Arch03r</auth>
+</page>

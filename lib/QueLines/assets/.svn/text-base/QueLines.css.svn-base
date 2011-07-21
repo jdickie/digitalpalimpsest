@@ -1,0 +1,88 @@
+/* main panel styles --------------------------------------- */
+.queLines {
+	min-width:860px;
+}
+/* panel body styles --------------------------------------- */
+.queLines_who {
+    margin-left: 5px;
+    display:inline;
+	float:left;
+}.queLines_text {
+    display: inline;
+    text-transform: uppercase;
+    font-size: 10px;
+    color: #291f1a;
+    float: left;
+}
+/* results box --------------------------------------- */
+.resultsBox {
+    padding: .25em;
+    font-size: 12px;
+    color: #2c2c2c;
+    width: 500px;
+    float: left;
+    margin-top: 10px;
+    clear: both;
+}.resultsTable {
+    background: #fff;
+    border: 1px solid #D2B89C;
+    height: 125px;
+    color: black;
+    overflow: auto;
+}.resultsBox a:hover {
+    background: #d7e3f4;
+}
+/* limit box --------------------------------------- */
+.queLines .limitBox {
+    margin-top: 25px;
+	max-width:250px;
+}
+/* print button styles --------------------------------------- */
+.PrintView {
+    z-index: 999;
+}.PrintView.quelinesPrint {
+    margin-top: 0;
+}.PrintView {
+	#position:absolute;
+	#top:50px;
+	#right:10px;
+}
+/* unknown styles --------------------------------------- */
+.queLines_speaker {
+    text-transform: uppercase;
+    font-weight: 900;
+}.queLines_pQuote {
+    color: #2744ff;
+    padding: .5em;
+}.cuelines_button {
+    position: absolute;
+    top: 45px;
+    left: 30%;
+	#left:32%;
+	font-size:12px;
+}
+/* unused styles?? --------------------------------------- */
+.queLines_head {
+    background: #8b0018 url('../images/bkgd_window.gif') repeat-x;
+    height: 40px;
+    padding: 0 5px;
+}.queLines_close {
+    float: right;
+    line-height: 10px;
+    padding-right: 24px;
+    background: url('../images/window_close.gif') no-repeat right;
+    cursor: pointer;
+}.queLines_body {
+    border: 2px solid #000;
+    padding: 0;
+    background: #5b5b5b;
+    height: 100%;
+}.queLines_back {
+    width: 75%;
+    border: 2px solid #fff;
+    display: none;
+    font-size: 14px;
+    color: white;
+    height: 310px;
+    overflow: hidden;
+}

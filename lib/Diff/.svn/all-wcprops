@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/archie/!svn/ver/60/lib/Diff
+END
+SQADiff.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/archie/!svn/ver/17/lib/Diff/SQADiff.js
+END
+diff1.html
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/archie/!svn/ver/17/lib/Diff/diff1.html
+END
+ArchieDiff.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/archie/!svn/ver/60/lib/Diff/ArchieDiff.js
+END
+getDiffs.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/archie/!svn/ver/60/lib/Diff/getDiffs.php
+END
+diff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/archie/!svn/ver/17/lib/Diff/diff.xml
+END
+processDiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/archie/!svn/ver/17/lib/Diff/processDiff.php
+END
+importDiffs.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/archie/!svn/ver/60/lib/Diff/importDiffs.php
+END
+wwwsqldesigner.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/archie/!svn/ver/17/lib/Diff/wwwsqldesigner.js
+END
+oz.js
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/archie/!svn/ver/17/lib/Diff/oz.js
+END

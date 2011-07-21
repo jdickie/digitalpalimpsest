@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/archie/!svn/ver/33/lib/openlayerscode/examples/tasmania
+END
+TasmaniaCities.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/archie/!svn/ver/33/lib/openlayerscode/examples/tasmania/TasmaniaCities.xml
+END
+TasmaniaStateBoundaries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/archie/!svn/ver/33/lib/openlayerscode/examples/tasmania/TasmaniaStateBoundaries.xml
+END
+TasmaniaWaterBodies.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/archie/!svn/ver/33/lib/openlayerscode/examples/tasmania/TasmaniaWaterBodies.xml
+END
+sld-tasmania.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/archie/!svn/ver/33/lib/openlayerscode/examples/tasmania/sld-tasmania.xml
+END
+TasmaniaRoads.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/archie/!svn/ver/33/lib/openlayerscode/examples/tasmania/TasmaniaRoads.xml
+END

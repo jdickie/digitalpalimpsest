@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format
+END
+GeoRSS.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/GeoRSS.html
+END
+KML.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/KML.html
+END
+WMSDescribeLayer.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/WMSDescribeLayer.html
+END
+Filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/Filter.html
+END
+WKT.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/WKT.html
+END
+WMSCapabilities.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/WMSCapabilities.html
+END
+WFS.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/WFS.html
+END
+JSON.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/JSON.html
+END
+GeoJSON.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/GeoJSON.html
+END
+WFSDescribeFeatureType.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/WFSDescribeFeatureType.html
+END
+GML.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/GML.html
+END
+WFST.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/WFST.html
+END
+Text.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/Text.html
+END
+WMC.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/WMC.html
+END
+SLD.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/SLD.html
+END
+WFSCapabilities.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/WFSCapabilities.html
+END
+XML.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/XML.html
+END
+GPX.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/GPX.html
+END
+ArcXML.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/ArcXML.html
+END
+OSM.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/OSM.html
+END
+WMSGetFeatureInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/Format/WMSGetFeatureInfo.html
+END

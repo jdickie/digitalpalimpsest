@@ -1,0 +1,35 @@
+/*
+ * Opacity.css
+ * Last Updated by: jdickie
+
+*/
+
+.slideContainer{
+	display: none;
+	position: absolute;
+	z-index: 101;
+	height: 16px;
+	width: 102px;
+}
+.slideHandle{
+
+	width: 10px;
+	height: 10px; 
+	padding: 0px;
+	background-image: url('./images/slider.png');
+	left: 2px;
+	
+
+	
+}
+.slideBack{
+	background: url('./images/slider_bkgd.png');
+	width: 102px;
+	height: 16px;
+		padding: 0px;
+		
+		/*
+position: relative;
+*/
+	
+}

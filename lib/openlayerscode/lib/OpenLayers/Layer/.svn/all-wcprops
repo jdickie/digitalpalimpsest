@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer
+END
+Text.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/Text.js
+END
+ArcIMS.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/ArcIMS.js
+END
+HTTPRequest.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/HTTPRequest.js
+END
+PointTrack.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/PointTrack.js
+END
+Image.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/Image.js
+END
+Vector.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/Vector.js
+END
+VirtualEarth.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/VirtualEarth.js
+END
+Grid.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/Grid.js
+END
+TileCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/TileCache.js
+END
+TMS.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/TMS.js
+END
+WFS.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/WFS.js
+END
+Yahoo.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/Yahoo.js
+END
+FixedZoomLevels.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/FixedZoomLevels.js
+END
+SphericalMercator.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/SphericalMercator.js
+END
+WorldWind.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/WorldWind.js
+END
+MapServer.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/MapServer.js
+END
+KaMapCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/KaMapCache.js
+END
+Boxes.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/Boxes.js
+END
+KaMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/KaMap.js
+END
+ArcGIS93Rest.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/ArcGIS93Rest.js
+END
+EventPane.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/EventPane.js
+END
+GeoRSS.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/GeoRSS.js
+END
+MultiMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/MultiMap.js
+END
+Google.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/Google.js
+END
+MapGuide.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/MapGuide.js
+END
+XYZ.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/XYZ.js
+END
+WMS.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/WMS.js
+END
+Markers.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/Markers.js
+END
+GML.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer/GML.js
+END

@@ -1,0 +1,99 @@
+.txtDiv{
+	background-color: white;
+}
+.leaf {
+	font-size: 12px;
+	width: 100%;
+	height: 100%;
+	background-color: #BDAC9A;
+	overflow:auto;
+}
+.verso {
+	position: absolute;
+	top: 0px;
+	float: left;
+	width: 50%;height: 100%;
+	background-color: #BDAC9A;
+	margin-right: 10px;
+	overflow: auto;
+	/*
+overflow: scroll;
+*/
+	
+}
+.recto {
+	
+	border-left: solid #000 .05em;
+	float: right;
+	width: 50%;height: 100%;
+	margin-left: -10px;
+	background-color: #BDAC9A;
+	overflow: auto;
+	/*
+overflow: scroll;
+*/
+	/*margin-top: -120px;*/
+}
+.empty {
+	padding: 2em;
+	margin-top: 20px;
+	text-align: center;
+	height: 100%;
+}
+.head {
+	text-align: center;
+	font-size: larger;
+	display: block;
+}
+#redSpan {
+	background-color: #ff1200;
+}
+#redSpan {
+	background-color: #ff1200;
+}
+br { clear:both; }
+p { margin:0; }
+
+.header { color: gray; }
+.bib { padding-left: 30px; }
+.bindingDesc { padding-left: 30px; }
+.handNote { padding-left: 30px; }
+.quote { padding-left: 60px; }
+.change { padding-left: 30px; }
+
+.textBlock { width:500px;
+
+ }
+.docTitle {}
+.titlePage { text-align: center; width: 100% }
+.head { text-align: center; width: 100% }
+.runningHeader { float:left;text-align:center;width:100% }
+.trailer { text-align: center; width: 100% }
+
+.italic { font-style: italic; }
+.centred { text-align: center; width:100% }
+.right-justified { text-align: right; }
+.superscript { vertical-align: super; }
+.indented { padding-left: 60px; }
+.gap { color:red; }
+.add { color:blue; }
+.note { color:gray; }
+
+/*.inline { position:absolute; width: 200px; left:300px; text-align:right; background-color:transparent; }*/
+.inline { 
+	float:right !important;
+	left:4em;
+	margin-bottom:-1.3em;
+	padding-bottom:0;
+	position:relative;
+	top:-1.3em;
+}
+.inline1 { position:absolute; width: 100px; left:250px; text-align:right; background-color:transparent; }
+
+.speaker { clear:both; float:left; padding:0 10px;  }
+.line { float:left; background-color:transparent; width:auto;}
+.stage { float:left;}
+
+.signature { float:left;padding:0;margin:0;text-align:center;width:20%;margin-left:40%; }
+.catchword { float:right;padding:0;margin:0;text-align:right;width:40%; }
+

@@ -1,0 +1,36 @@
+/*
+ * ImageRegion.css
+ * Last Edited By: jdickie
+
+*/
+
+.imageRegion{
+	z-index: 199;
+	border: thin solid red;
+top: 0px;
+	left: 0px;
+	
+position: absolute;
+
+}
+.imageRegion_notSelected{
+	z-index: -1;
+	border: thin solid red;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+.imageAnnotation{
+		z-index: 199;
+	
+top: 0px;
+	left: 0px;
+	
+position: absolute;
+background-color: red;
+/* for IE */
+  	filter:alpha(opacity=20);
+  	/* CSS3 standard */
+  	opacity:0.2;
+}

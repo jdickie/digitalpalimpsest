@@ -1,0 +1,105 @@
+.archselect_top{
+	display:none;
+}
+#archselect_dom, #bwork, #bover, #bunder{
+	display:none;
+}
+.archselect{
+	position:relative;
+	margin:30px;
+	width:75%;
+	min-width:885px;
+	height:400px;
+}.archselect .content {
+	position:relative;
+	
+}
+.archselect_shadow{
+	left:5%;
+	top:8%;
+	min-width:855px;
+	opacity: .7;
+	filter: alpha(opacity=.7);
+	filter: alpha(opacity=70);
+}
+.archselect_shadow .window_body, .archselect .window_body {
+	padding-bottom:20px;
+	min-width:865px;
+}
+.archselect_option, .archselect_option p {
+	border:none;
+	padding: 0 5px 5px 0;
+	margin-top:10px;
+	line-height:20px;
+	text-align:left;
+	height:auto;
+}
+.archselect_category ul {
+	padding-left:0px;
+}
+.archselect_category {
+	float:left;
+	width:45%;
+}.archselect_category:last-child {
+	padding-left:10px;
+}
+.archselect_shadow .description, .archselect .description {
+	float:right;
+	width:55%;
+	margin-right:5%;
+}
+.archselect_shadow .description p, .archselect .description p {
+	padding:0 0px 20px 0px;
+	line-height:14px;
+	color:#4b372d;
+}
+.archselect_shadow .description h3, .archselect .description h3 {
+	margin-top:1em;
+}
+.archselect_button {
+	text-transform:uppercase;
+}
+a.archselect_button {
+	background-color:#AADDE1;
+	border:1px solid #feecc7;
+	padding:5px;
+	text-decoration:none;
+	color:#291F1A;
+}
+a.archselect_button:hover {
+	background-color:#feecc7;
+}
+.archselect_shadow .window_body .selectOptions, .archselect .window_body .selectOptions {
+	float:left;
+	width:38%;
+	margin-right:2%;
+}.archselect_shadow .window_body .selectOptionsInside, .archselect .window_body .selectOptionsInside {
+	padding:20px;
+	background-color:#d2b89c;
+}
+.authItem_select{
+	display: block;
+	background-color: blue;
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 12px;
+	padding: 1em;
+	border-bottom: 1px solid #987667;
+}
+/* http://perishablepress.com/press/2008/02/05/lessons-learned-concerning-the-clearfix-css-hack */
+
+.clearfix:after {
+	clear: both;
+	content: ' ';
+	display: block;
+	font-size: 0;
+	line-height: 0;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+* html .clearfix {
+	height: 1%;
+}
+
+

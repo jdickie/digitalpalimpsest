@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<doc>
+<work>
+<title>The Commentary on Aristotle's Categories</title>
+<author who="Alex">Alexander of Aphrodisias</author>
+<index>
+<page id="01r" xml="143r-146v-manifest.xml" auth="Alex01r">143r-146v</page>
+<page id="01v" xml="143v-146r-manifest.xml" auth="Alex01v">143v-146r</page>
+<page id="02r" xml="120r-121v-manifest.xml" auth="Alex02r">120r-121v</page>
+<page id="02v" xml="120v-121r-manifest.xml" auth="Alex02v">120v-121r</page>
+<page id="03r" xml="079r-074v-manifest.xml" auth="Alex03r">079r-074v</page>
+<page id="03v" xml="079v-074r-manifest.xml" auth="Alex03v">079v-074r</page>
+<page id="04r" xml="078r-075v-manifest.xml" auth="Alex04r">078r-075v</page>
+<page id="04v" xml="078v-075r-manifest.xml" auth="Alex04v">078v-075r</page>
+<page id="05r" xml="077r-076v-manifest.xml" auth="Alex05r">077r-076v</page>
+<page id="05v" xml="077v-076r-manifest.xml" auth="Alex05v">077v-076r</page>
+<page id="06r" xml="080r-073v-manifest.xml" auth="Alex06r">080r-073v</page>
+<page id="06v" xml="080v-073r-manifest.xml" auth="Alex06v">080v-073r</page>
+<page id="07r" xml="119r-122v-manifest.xml" auth="Alex07r">119r-122v</page>
+</index>
+</work>
+<work>
+<title>Equilibrium of Planes</title>
+<author who="Arch">Archimedes</author>
+<index>
+<page id="01r" xml="027r-022v-manifest.xml" auth="Arch01r">027r-022v</page>
+<page id="01v" xml="027v-022r-manifest.xml" auth="Arch01v">027v-022r</page>
+<page id="02r" xml="014r-019v-manifest.xml" auth="Arch02r">014r-019v</page>
+<page id="02v" xml="014v-019r-manifest.xml" auth="Arch02v">014v-019r</page>
+<page id="03r" xml="081r-088vStub-manifest.xml">081r-088vStub</page>
+</index>
+</work>
+<work>
+<title>On Floating Bodies</title>
+<author who="Arch">Archimedes</author>
+<index>
+<page id="03r" xml="081r-088vStub-manifest.xml">081r-088vStub</page>
+<page id="03v" xml="081v-088r-manifest.xml" auth="Arch03v">081v-088r</page>
+<page id="04r" xml="056r-049v-manifest.xml" auth="Arch04r">056r-049v</page>
+<page id="04v" xml="056v-049r-manifest.xml" auth="Arch04v">056v-049r</page>
+<page id="05r" xml="055r-050v-manifest.xml" auth="Arch05r">055r-050v</page>
+<page id="05v" xml="055v-050r-manifest.xml" auth="Arch05v">055v-050r</page>
+<page id="06r" xml="082r-087v-manifest.xml" auth="Arch06r">082r-087v</page>
+<page id="06v" xml="082v-087r-manifest.xml" auth="Arch06v">082v-087r</page>
+<page id="07r" xml="017r-016v-manifest.xml" auth="Arch07r">017r-016v</page>
+<page id="07v" xml="017v-016r-manifest.xml" auth="Arch07v">017v-016r</page>
+<page id="08r" xml="028v-021r-manifest.xml" auth="Arch08r">028v-021r</page>
+<page id="09r" xml="069r-068v-manifest.xml" auth="Arch09r">069r-068v</page>
+<page id="09v" xml="069v-068r-manifest.xml" auth="Arch09v">069v-068r</page>
+<page id="10r" xml="128r-129v-manifest.xml" auth="Arch10r">128r-129v</page>
+<page id="10v" xml="128v-129r-manifest.xml" auth="Arch10v">128v-129r</page>
+<page id="11r" xml="127r-130v-manifest.xml" auth="Arch11r">127r-130v</page>
+<page id="11v" xml="127v-130r-manifest.xml" auth="Arch11v">127v-130r</page>
+<page id="12r" xml="070r-067v-manifest.xml" auth="Arch12r">070r-067v</page>
+<page id="12v" xml="070v-067r-manifest.xml" auth="Arch12v">070v-067r</page>
+<page id="13r" xml="002r-001v-manifest.xml" auth="Arch13r">002r-001v</page>
+<page id="13v" xml="002v-001r-manifest.xml" auth="Arch13v">002v-001r</page>
+<page id="14r" xml="169r-164v-manifest.xml" auth="Arch14r">169r-164v</page>
+<page id="14v" xml="169v-164r-manifest.xml" auth="Arch14v">169v-164r</page>
+<page id="15r" xml="046r-043v-manifest.xml" auth="Arch15r">046r-043v</page>
+</index>
+</work>
+<work>
+<title>The Method of Mechanical Theorems</title>
+<author who="Arch">Archimedes</author>
+<index>
+<page id="15r" xml="046r-043v-manifest.xml">046r-043v</page>
+<page id="15v" xml="046v-043r-manifest.xml" auth="Arch15v">046v-043r</page>
+<page id="16r" xml="057r-064v-manifest.xml" auth="Arch16r">057r-064v</page>
+<page id="16v" xml="057v-064r-manifest.xml" auth="Arch16v">057v-064r</page>
+<page id="17r" xml="066r-071v-manifest.xml" auth="Arch17r">066r-071v</page>
+<page id="17v" xml="066v-071r-manifest.xml" auth="Arch17v">066v-071r</page>
+<page id="18r" xml="065r-072v-manifest.xml" auth="Arch18r">065r-072v</page>
+<page id="18v" xml="065v-072r-manifest.xml" auth="Arch18v">065v-072r</page>
+<page id="19r" xml="058r-063v-manifest.xml" auth="Arch19r">058r-063v</page>
+<page id="19v" xml="058v-063r-manifest.xml" auth="Arch19v">058v-063r</page>
+<page id="20r" xml="045r-044v-manifest.xml" auth="Arch20r">045r-044v</page>
+<page id="20v" xml="045v-044r-manifest.xml" auth="Arch20v">045v-044r</page>
+<page id="21r" xml="170r-163v-manifest.xml" auth="Arch21r">170r-163v</page>
+<page id="21v" xml="170v-163r-manifest.xml" auth="Arch21v">170v-163r</page>
+<page id="22r" xml="157r-160v-manifest.xml" auth="Arch22r">157r-160v</page>
+<page id="22v" xml="157v-160r-manifest.xml" auth="Arch22v">157v-160r</page>
+<page id="24r" xml="166r-167v-manifest.xml" auth="Arch24r">166r-167v</page>
+<page id="24v" xml="166v-167r-manifest.xml" auth="Arch24v">166v-167r</page>
+<page id="25r" xml="048r-041v-manifest.xml" auth="Arch25r">048r-041v</page>
+<page id="25v" xml="048v-041r-manifest.xml" auth="Arch25v">048v-041r</page>
+<page id="26r" xml="047r-042v-manifest.xml" auth="Arch26r">047r-042v</page>
+<page id="26v" xml="047v-042r-manifest.xml" auth="Arch26v">047v-042r</page>
+<page id="27r" xml="110r-105v-manifest.xml" auth="Arch27">110r-105v</page>
+<page id="27v" xml="110v-105r-manifest.xml" auth="Arch27v">110v-105r</page>
+<page id="28r" xml="158r-159v-manifest.xml" auth="Arch28r">158r-159v</page>
+<page id="28v" xml="158v-159r-manifest.xml" auth="Arch28v">158v-159r</page>
+<page id="29v" xml="165r-168v-manifest.xml" auth="Arch29v-30r">165r-168v</page>
+<page id="30v" xml="168r-165v-manifest.xml" auth="Arch30v-29r">168r-165v</page>
+</index>
+</work>
+<work>
+<title>Spiral Lines</title>
+<author who="Arch">Archimedes</author>
+<index>
+<page id="29v" xml="165r-168v-manifest.xml">165r-168v</page>
+<page id="30v" xml="168r-165v-manifest.xml">168r-165v</page>
+<page id="31r" xml="059r-062v-manifest.xml" auth="Arch31r">059r-062v</page>
+<page id="31v" xml="059v-062r-manifest.xml" auth="Arch31v">059v-062r</page>
+<page id="32r" xml="162r-155v-manifest.xml" auth="Arch32r">162r-155v</page>
+<page id="32v" xml="162v-155r-manifest.xml" auth="Arch32v">162v-155r</page>
+<page id="33r" xml="125r-132v-manifest.xml" auth="Arch33r">125r-132v</page>
+<page id="33v" xml="125v-132r-manifest.xml" auth="Arch33v">125v-132r</page>
+<page id="34r" xml="126r-131v-manifest.xml" auth="Arch34r">126r-131v</page>
+<page id="34v" xml="126v-131r-manifest.xml" auth="Arch34v">126v-131r</page>
+<page id="35r" xml="161r-156v-manifest.xml" auth="Arch35r">161r-156v</page>
+<page id="35v" xml="161v-156r-manifest.xml" auth="Arch35v">161v-156r</page>
+<page id="36r" xml="060r-061v-manifest.xml" auth="Arch36r">060r-061v</page>
+<page id="36v" xml="060v-061r-manifest.xml" auth="Arch36v">060v-061r</page>
+<page id="37r" xml="030r-033v-manifest.xml" auth="Arch37r">030r-033v</page>
+<page id="37v" xml="030v-033r-manifest.xml" auth="Arch37v">030v-033r</page>
+<page id="38r" xml="096r-089v-manifest.xml" auth="Arch38r">096r-089v</page>
+<page id="38v" xml="096v-089r-manifest.xml" auth="Arch38v">096v-089r</page>
+<page id="39r" xml="102r-098v-manifest.xml" auth="Arch39r">102r-098v</page>
+<page id="39v" xml="102v-098r-manifest.xml" auth="Arch39v">102v-098r</page>
+<page id="40r" xml="147v-142r-manifest.xml" auth="Arch40r">147v-142r</page>
+<page id="40v" xml="147r-142v-manifest.xml" auth="Arch40v">147r-142v</page>
+<page id="41r" xml="148v-141r-manifest.xml" auth="Arch41r">148v-141r</page>
+<page id="41v" xml="148r-141v-manifest.xml" auth="Arch41v">148r-141v</page>
+<page id="42r" xml="103r-097v-manifest.xml" auth="Arch42r">103r-097v</page>
+<page id="42v" xml="103v-097r-manifest.xml" auth="Arch42v">103v-097r</page>
+<page id="43r" xml="095r-090v-manifest.xml" auth="Arch43r">095r-090v</page>
+<page id="43v" xml="095v-090r-manifest.xml" auth="Arch43v">095v-090r</page>
+<page id="44r" xml="031r-032v-manifest.xml" auth="Arch44r">031r-032v</page>
+<page id="44v" xml="031v-032r-manifest.xml" auth="Arch44v">031v-032r</page>
+<page id="45r" xml="109r-106v-manifest.xml" auth="Arch45r">109r-106v</page>
+</index>
+</work>
+<work>
+<title>Sphere and Cylinder</title>
+<author who="Arch">Archimedes</author>
+<index>
+<page id="45r" xml="109r-106v-manifest.xml">109r-106v</page>
+<page id="45v" xml="109v-106r-manifest.xml" auth="Arch45v">109v-106r</page>
+<page id="46r" xml="003r-006v-manifest.xml" auth="Arch46r">003r-006v</page>
+<page id="46v" xml="003v-006r-manifest.xml" auth="Arch46v">003v-006r</page>
+<page id="47r" xml="004r-005v-manifest.xml" auth="Arch47r">004r-005v</page>
+<page id="47v" xml="004v-005r-manifest.xml" auth="Arch47v">004v-005r</page>
+<page id="48r" xml="108r-107v-manifest.xml" auth="Arch48r">108r-107v</page>
+<page id="48v" xml="108v-107r-manifest.xml" auth="Arch48v">108v-107r</page>
+<page id="49r" xml="139r-134v-manifest.xml" auth="Arch49r">139r-134v</page>
+<page id="49v" xml="139v-134r-manifest.xml" auth="Arch49v">139v-134r</page>
+<page id="50r" xml="038r-035v-manifest.xml" auth="Arch50r">038r-035v</page>
+<page id="50v" xml="038v-035r-manifest.xml" auth="Arch50v">038v-035r</page>
+<page id="51r" xml="099r-101v-manifest.xml" auth="Arch51r">099r-101v</page>
+<page id="51v" xml="099v-101r-manifest.xml" auth="Arch51v">099v-101r</page>
+<page id="52r" xml="034r-029v-manifest.xml" auth="Arch52r">034r-029v</page>
+<page id="52v" xml="034v-029r-manifest.xml" auth="Arch52v">034v-029r</page>
+<page id="53r" xml="0000-100v-manifest.xml" auth="Arch53r">0000-100v</page>
+<page id="53v" xml="0000-100r-manifest.xml" auth="Arch53v">0000-100r</page>
+<page id="54r" xml="037r-036v-manifest.xml" auth="Arch54r">037r-036v</page>
+<page id="54v" xml="037v-036r-manifest.xml" auth="Arch54v">037v-036r</page>
+<page id="55r" xml="140r-133v-manifest.xml" auth="Arch55r">140r-133v</page>
+<page id="55v" xml="140v-133r-manifest.xml" auth="Arch55v">140v-133r</page>
+<page id="56r" xml="112r-115v-manifest.xml" auth="Arch56r">112r-115v</page>
+<page id="56v" xml="112v-115r-manifest.xml" auth="Arch56v">112v-115r</page>
+<page id="57r" xml="149r-154v-manifest.xml" auth="Arch57r">149r-154v</page>
+<page id="57v" xml="149v-154r-manifest.xml" auth="Arch57v">149v-154r</page>
+<page id="58r" xml="150r-153v-manifest.xml" auth="Arch58r">150r-153v</page>
+<page id="58v" xml="150v-153r-manifest.xml" auth="Arch58v">150v-153r</page>
+<page id="60r" xml="113r-114v-manifest.xml" auth="Arch60r">113r-114v</page>
+<page id="60v" xml="113v-114r-manifest.xml" auth="Arch60v">113v-114r</page>
+<page id="61r" xml="123r-118v-manifest.xml" auth="Arch61r">123r-118v</page>
+<page id="61v" xml="123v-118r-manifest.xml" auth="Arch61v">123v-118r</page>
+<page id="62r" xml="116r-111v-manifest.xml" auth="Arch62r">116r-111v</page>
+<page id="62v" xml="116v-111r-manifest.xml" auth="Arch62v">116v-111r</page>
+<page id="63r" xml="039r-0000-manifest.xml" auth="Arch63r">039r-0000</page>
+<page id="63v" xml="039v-0000-manifest.xml" auth="Arch63v">039v-0000</page>
+<page id="64r" xml="094r-091v-manifest.xml" auth="Arch64r">094r-091v</page>
+<page id="64v" xml="094v-091r-manifest.xml" auth="Arch64v">094v-091r</page>
+<page id="65r" xml="093r-092v-manifest.xml" auth="Arch65r">093r-092v</page>
+<page id="65v" xml="093v-092r-manifest.xml" auth="Arch65v">093v-092r</page>
+<page id="66r" xml="040r-0000-manifest.xml" auth="Arch66r">040r-0000</page>
+<page id="66v" xml="040v-0000-manifest.xml" auth="Arch66v">040v-0000</page>
+<page id="67r" xml="124r-117v-manifest.xml" auth="Arch67r">124r-117v</page>
+</index>
+</work>
+<work>
+<title>The Measurement of the Circle</title>
+<author who="Arch">Archimedes</author>
+<index>
+<page id="68r" xml="0000-171v-manifest.xml" auth="Arch68r">0000-171v</page>
+<page id="68v" xml="0000-171r-manifest.xml" auth="Arch68v">0000-171r</page>
+<page id="69r" xml="177r-172v-manifest.xml" auth="Arch69r">177r-172v</page>
+</index>
+</work>
+<work>
+<title>The Stomachion</title>
+<author who="Arch">Archimedes</author>
+<index>
+<page id="69r" xml="177r-172v-manifest.xml">177r-172v</page>
+<page id="69v" xml="177v-172r-manifest.xml" auth="Arch69v">177v-172r</page>
+</index>
+</work>
+</doc>

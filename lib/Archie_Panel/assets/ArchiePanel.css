@@ -1,0 +1,243 @@
+/* main panel styles --------------------------------------- */
+div.panel {
+    background:none;
+	width:auto;
+	height:auto;
+	position:absolute;
+	border:solid 3px #aadde1;
+	z-index:900;
+}div.panel_InBckGrnd {
+    background:#d2b89c;
+	width:800px;
+	position:absolute;
+	z-index:0;
+	overflow:hidden;
+}div.panel_annoOpen {
+    background:#d2b89c;
+	width:800px;	
+	position:absolute;
+	z-index:499;
+	overflow:hidden;
+}
+/* main section styles --------------------------------------- */
+.hd {  
+	/* position: relative; */  
+	text-align: left;
+}.panelBody {
+    /*overflow: hidden;
+	height:auto;*/
+	
+}.ft {
+	clear:both;
+    position: relative;
+    color: #291f1a;
+}
+/* hd 1st sub-section styles (quartoInfo div) --------------------------------------- */
+.quartoInfo {
+    /*float: bottom;*/
+    display: block;
+    margin-right: 0;
+    z-index: 0;
+	background:#985434;
+	padding:5px;
+	height:15px;
+}.quartoInfoHeader {
+    font-size: 11px;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    position: relative;
+    left: 0;
+	float:left;
+    color: #feecc7;
+    text-decoration: none;
+    text-transform: uppercase;
+    /* z-index: -1; 
+    filter: alpha( opacity = 65);
+	opacity:.65;*/
+}.quartoInfo .window_close {
+	margin-top:0px;
+	float:right;
+}
+/* hd 2nd sub-section styles (controls div) --------------------------------------- */ 
+.controls {
+	background:#987667;
+	padding:5px;
+}.pageControls, .zoomControls, .opacityControls, .imageToggle, .magControl {
+    float: left;
+    display: block;
+    margin-right: 25px;
+}.opacityControls {
+    width: 100px;
+}.imageToggle {
+    padding-left: 5px;
+}.pageBack, .pageNext, .zoomIn, .zoomOut, .darker, .lighter, .showImage, .showText, .magGlass, .dropDown {
+    display: block;
+ 	float: left;
+    margin-right: 1px;
+    cursor: pointer;
+}.zoomIn, .zoomOut, .darker, .lighter, .showImage {
+	margin-right:7px;
+}.pageBack {
+    background: url("./images/icon_arrow_left.gif") no-repeat;
+    width: 11px;
+    height: 12px;
+}.pageNext {
+    background: url("./images/icon_arrow_right.gif") no-repeat;
+    width: 11px;
+    height: 12px;
+}.zoomIn {
+    width: 13px;
+    height: 13px;
+    background: url("./images/icon_plus.gif") no-repeat;
+}.zoomOut {
+    width: 13px;
+    height: 13px;
+    background: url("./images/icon_minus.gif") no-repeat;
+}.darker {
+    width: 13px;
+    height: 13px;
+    background: url("./images/icon_plus.gif") no-repeat right;
+}.lighter {
+    width: 13px;
+    height: 13px;
+    background: url("./images/icon_minus.gif") no-repeat right;
+}.showImage {
+    width: 27px;
+    height: 12px;
+    background: url("./images/icon_img.gif") no-repeat right;
+}.showText {
+    width: 29px;
+    height: 12px;
+    background: url("./images/icon_txt.gif") no-repeat right;
+}/*.magGlass {
+    width: 20px;
+    height: 16px;
+    background: url("./images/icon_magnify.gif") no-repeat right;
+}*/.dropDownWrapper{
+	position:relative;
+}.dropDown {
+    font-size: 10px;
+    position: relative;
+	top: -2px;
+    margin: 0 2px;
+    filter: alpha( opacity = 65);
+	opacity:.65;
+}/*.closeButton {
+    display: block;
+    float: right;
+    margin-right: 1px;
+    width: 20px;
+    height: 16px;
+    background: url("./images/icon_close.gif") no-repeat right;
+    cursor: pointer;
+}*/.textLabelSpan {
+    float: left;
+    margin-right: 7px;
+    color: #ffffff;
+    font-size: 11px;
+    line-height: 14px;
+    cursor: pointer;
+}img {
+    -moz-user-select: none;
+}
+/* panelBody styles --------------------------------------- */
+.panelBodyContents {
+	/*height:350px !important;*/
+}.layers {
+	float:left;
+	width:275px;
+	overflow-y:auto;
+	overflow-x:hidden;
+	background:#e9dab9;
+	height:100%;
+	/*padding:5px 5px 5px 10px;*/
+}.layers a {
+	text-decoration:none;
+	color:#985434;
+}.layers a:hover {
+	text-decoration:underline;
+}.layers ul {
+	list-style-type:none;
+	padding-left:0px;
+	padding:0px 5px 5px 5px;  
+}.layers h3 {
+	color:#291F1A;
+	font-size:11px;
+	margin:15px 0px 5px 20px; 
+	display:inline;
+}.layers .categories {
+	margin-top:10px;
+}.layers h3:first-child {
+	margin-left:10px;
+}/*.opacDownWrap a {
+	background:url('./images/icon_opacMinus.gif') no-repeat;
+}.opacUpWrap a {
+	background:url('./images/icon_opacPlus.gif') no-repeat;
+}*/
+.olMapViewport{
+	background:#5d5d5d;
+}
+.mapDiv.olMap {
+	
+	width:100%;
+	height:100%;
+	
+}
+.leaf {
+	background:#fff;
+}
+.leaf .textBlock {
+	padding:5px;
+}
+.sublayer_loadingspan { }
+/* unused styles? Global styles? --------------------------------------- 
+ 
+.registration {
+    background-color: #FFF;
+}.regsubmit {
+    background-color: #FFF;
+}.left padding {
+    background-color: #FFF;
+}.infoBoxMain {
+    background: none;
+    color: #FFF;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: absolute;
+    left: 228px;
+    top: 28px;
+}.resetGroup {
+    margin-left: 6px;
+    padding-left: 6px;
+}*/
+
+/* Crop styles --------------------------------------- */
+.cropButton {
+    position: absolute;
+    cursor: pointer;
+    left: 0;
+    top: 0;
+    width: 20px;
+    height: 20px;
+    z-index: 999;
+    background: #e9dab9 url("../../../images/crop_small.gif") no-repeat;
+}.cropRegionClose {
+    position: absolute;
+    left: 21px;
+    top: 0;
+    width: 46px;
+    height: 20px;
+    z-index: 999;
+}.panelButton, .cropRegionClose {
+    padding-left: 4px;
+	background:#e9dab9;
+	color:#291F1A;
+	cursor: pointer;
+}.croppedHolder {
+	color:#fff;
+}
+.croppedHolder:hover {
+	border:1px solid #aadee1;
+}
+
+

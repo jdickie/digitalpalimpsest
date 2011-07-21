@@ -1,0 +1,49 @@
+	/*	Style the <fieldset> since the Reset CSS removes the default style. */
+    #button-example-form fieldset {
+
+        border: 2px groove #ccc;
+        margin: .5em;
+        padding: .5em;
+
+    }
+	.dropDown{
+		z-index: 999;
+		/*overflow: auto;
+		width:3em;*/
+		
+	}
+	.bd{
+		overflow: auto;
+	}
+	pre {
+		border: solid 1px #000;
+		background-color: grey;
+		padding: 10px;
+		margin: 10px;
+	}
+
+	.yui-menu-button em.yui-button-label {
+
+		font-style: normal;
+		display: block;
+		text-align: left;
+		white-space: nowrap;
+
+		/*  Restrict the width of the label to 5em. */
+		width: 5em;
+
+		/* Hide the overflow if the text label exceeds 5em in width. */
+		overflow: hidden;
+
+		/* 
+			IE, Safari and Opera support the ability to add ellipsis when the text 
+			label exceeds 10em in width.
+		*/
+		text-overflow: ellipsis;
+		-o-text-overflow: ellipsis;
+
+	}
+
+	li.yui-button-selectedmenuitem {
+		background: url(./lib/yui/build/button/assets/checkbox.png) left center no-repeat;
+	}

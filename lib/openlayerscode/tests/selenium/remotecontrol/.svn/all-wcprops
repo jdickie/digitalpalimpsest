@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/selenium/remotecontrol
+END
+test_ol.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/selenium/remotecontrol/test_ol.py
+END
+config.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/selenium/remotecontrol/config.cfg
+END
+setup.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/selenium/remotecontrol/setup.txt
+END
+selenium.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/archie/!svn/ver/33/lib/openlayerscode/tests/selenium/remotecontrol/selenium.py
+END

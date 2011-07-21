@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/archie/!svn/ver/33/lib/openlayerscode/build
+END
+lite.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/archie/!svn/ver/33/lib/openlayerscode/build/lite.cfg
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/archie/!svn/ver/33/lib/openlayerscode/build/build.py
+END
+library.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/archie/!svn/ver/33/lib/openlayerscode/build/library.cfg
+END
+full.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/archie/!svn/ver/33/lib/openlayerscode/build/full.cfg
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/archie/!svn/ver/33/lib/openlayerscode/build/license.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/archie/!svn/ver/33/lib/openlayerscode/build/README.txt
+END
+OpenLayers.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/archie/!svn/ver/33/lib/openlayerscode/build/OpenLayers.js
+END
+buildUncompressed.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/archie/!svn/ver/33/lib/openlayerscode/build/buildUncompressed.py
+END

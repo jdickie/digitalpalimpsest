@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archie/!svn/ver/127/lib/openlayerscode/lib/OpenLayers/Control
+END
+MousePosition.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/MousePosition.js
+END
+NavToolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/NavToolbar.js
+END
+Measure.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/Measure.js
+END
+WMSGetFeatureInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/WMSGetFeatureInfo.js
+END
+PanZoom.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/PanZoom.js
+END
+Button.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/Button.js
+END
+MouseToolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/MouseToolbar.js
+END
+Split.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/Split.js
+END
+MouseDefaults.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/MouseDefaults.js
+END
+ZoomToMaxExtent.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/ZoomToMaxExtent.js
+END
+DrawFeature.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/DrawFeature.js
+END
+PanPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/PanPanel.js
+END
+ZoomOut.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/ZoomOut.js
+END
+Scale.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/Scale.js
+END
+Snapping.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/Snapping.js
+END
+GetFeature.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/GetFeature.js
+END
+ZoomBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/ZoomBox.js
+END
+PanZoomBar.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/PanZoomBar.js
+END
+ZoomIn.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/ZoomIn.js
+END
+Pan.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/Pan.js
+END
+ZoomPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/ZoomPanel.js
+END
+KeyboardDefaults.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/KeyboardDefaults.js
+END
+ArgParser.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/ArgParser.js
+END
+DragFeature.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/DragFeature.js
+END
+Panel.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/Panel.js
+END
+ScaleLine.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/ScaleLine.js
+END
+DragPan.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/DragPan.js
+END
+Navigation.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/Navigation.js
+END
+OverviewMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/archie/!svn/ver/127/lib/openlayerscode/lib/OpenLayers/Control/OverviewMap.js
+END
+LayerSwitcher.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/LayerSwitcher.js
+END
+Permalink.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/Permalink.js
+END
+NavigationHistory.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/NavigationHistory.js
+END
+Attribution.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/Attribution.js
+END
+ModifyFeature.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/ModifyFeature.js
+END
+SelectFeature.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/SelectFeature.js
+END
+EditingToolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control/EditingToolbar.js
+END

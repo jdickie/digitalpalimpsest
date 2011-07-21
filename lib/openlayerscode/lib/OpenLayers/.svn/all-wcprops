@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/archie/!svn/ver/127/lib/openlayerscode/lib/OpenLayers
+END
+Geometry.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Geometry.js
+END
+Style.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Style.js
+END
+Layer.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Layer.js
+END
+Util.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Util.js
+END
+Tween.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Tween.js
+END
+Marker.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Marker.js
+END
+BaseTypes.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/BaseTypes.js
+END
+SingleFile.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/SingleFile.js
+END
+Lang.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Lang.js
+END
+Ajax.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Ajax.js
+END
+Projection.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Projection.js
+END
+Map.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/122/lib/openlayerscode/lib/OpenLayers/Map.js
+END
+Format.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Format.js
+END
+Events.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Events.js
+END
+Feature.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Feature.js
+END
+Request.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Request.js
+END
+Icon.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Icon.js
+END
+StyleMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/StyleMap.js
+END
+Filter.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Filter.js
+END
+Rule.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Rule.js
+END
+Popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Popup.js
+END
+Control.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Control.js
+END
+Protocol.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Protocol.js
+END
+Tile.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Tile.js
+END
+Console.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Console.js
+END
+Renderer.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Renderer.js
+END
+Strategy.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Strategy.js
+END
+Handler.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archie/!svn/ver/33/lib/openlayerscode/lib/OpenLayers/Handler.js
+END

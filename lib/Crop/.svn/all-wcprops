@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/archie/!svn/ver/360/lib/Crop
+END
+retrieveCrop.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/archie/!svn/ver/16/lib/Crop/retrieveCrop.php
+END
+imageCropChangeResize.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/archie/!svn/ver/60/lib/Crop/imageCropChangeResize.php
+END
+saveCrop.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/archie/!svn/ver/16/lib/Crop/saveCrop.php
+END
+crop.js
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/archie/!svn/ver/398/lib/Crop/crop.js
+END

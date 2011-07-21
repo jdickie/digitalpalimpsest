@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/archie/!svn/ver/60/lib/XMLDoc/conversion_tools
+END
+generateIDbyFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/archie/!svn/ver/18/lib/XMLDoc/conversion_tools/generateIDbyFile.php
+END
+DomFunctions.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archie/!svn/ver/18/lib/XMLDoc/conversion_tools/DomFunctions.js
+END
+retrievePage.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archie/!svn/ver/18/lib/XMLDoc/conversion_tools/retrievePage.php
+END
+generateID.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archie/!svn/ver/18/lib/XMLDoc/conversion_tools/generateID.php
+END
+retrieveHTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archie/!svn/ver/18/lib/XMLDoc/conversion_tools/retrieveHTML.php
+END
+generateIdFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archie/!svn/ver/18/lib/XMLDoc/conversion_tools/generateIdFile.php
+END
+stringfind.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archie/!svn/ver/18/lib/XMLDoc/conversion_tools/stringfind.php
+END
+disp.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/archie/!svn/ver/18/lib/XMLDoc/conversion_tools/disp.php
+END
+genIDsInsertSrcFiles.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archie/!svn/ver/60/lib/XMLDoc/conversion_tools/genIDsInsertSrcFiles.php
+END
+treeTrim.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archie/!svn/ver/18/lib/XMLDoc/conversion_tools/treeTrim.php
+END
+calls.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/archie/!svn/ver/18/lib/XMLDoc/conversion_tools/calls.php
+END
+generateId.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archie/!svn/ver/18/lib/XMLDoc/conversion_tools/generateId.html
+END
+dbStuff.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/archie/!svn/ver/60/lib/XMLDoc/conversion_tools/dbStuff.php
+END
+generateMasterManifest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/archie/!svn/ver/18/lib/XMLDoc/conversion_tools/generateMasterManifest.php
+END
+convertPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archie/!svn/ver/18/lib/XMLDoc/conversion_tools/convertPage.php
+END

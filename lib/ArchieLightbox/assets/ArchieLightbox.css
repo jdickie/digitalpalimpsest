@@ -1,0 +1,50 @@
+/**
+ * CSS for ArchieLightbox
+ */
+
+ .light {
+ 	position:fixed;
+	left: 35%;
+	top: 35%;
+	background:#feecc7;
+	z-index:1201;
+	width:400px;
+	height:auto;
+	border:solid 2px #985434;
+ }
+ .dark {
+ 	position:fixed;
+	left:0px;
+	top:0px;
+	background:black;
+	width:100%;
+	height:100%;
+	/**make transparent**/
+	-moz-opacity: 0.8;
+    opacity:.80;
+    filter: alpha(opacity=80);
+	z-index:1200;
+ }
+ .messagearea {
+ 	background: url('../../../images/error.png') no-repeat left top;
+ 	position:relative;
+	margin: 10px;
+	margin-top: 10px;
+	padding-left: 30px;
+	width:80%;
+	height:100%;
+	color:#291f1a;
+	line-height:1.3em;
+	font-size:1em;
+ }
+ .light .window_close {
+ 	background:url('images/close.gif') no-repeat;
+	margin-right:10px;
+ }
+  .messagearea a {
+  	color:#985434;
+	text-decoration:none;
+	text-transform:uppercase;
+  }.messagearea a:hover {
+  	text-decoration:underline;
+  }

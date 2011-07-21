@@ -1,0 +1,47 @@
+.ac_body{
+	background:#5d5d5d;
+	height:900px;
+	width: auto;
+	padding:10px;
+	
+}
+.ac_content{
+	background:#fff;
+	padding:16px;
+	height:800px;
+	
+}
+.ac_list,.ac_list2{
+	background:#fff;
+	border:solid 1.5px black;
+	overflow: scroll;
+	
+	height:550px;
+	width:300px;
+}
+.ac_list{
+	float:left;
+}
+.ac_list2{
+	
+}
+.ac_item{
+	padding:1em;
+	
+}
+.ac_item:hover{
+	background:#cfcfcf;
+}
+.ac_button{
+	background:#99c4c2;
+	color: #fff;
+	padding:3px;
+	margin:10px;
+}
+#upper{
+	background: #cfcfcf;
+	padding: 3px;
+	margin:10px;
+	width: 250px;
+	
+}

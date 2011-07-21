@@ -1,0 +1,26 @@
+Functionality issues:
+--Safari greek has gaps (look at text in other browsers)
+--Performance is the main issue to solve for the scholars
+--Once you use crop, the move (hand) tool is no longer functioning on the image - DONE
+--Turning layers off—add "off" to the front of the name (or parentheses); start with "on", toggle - DONE
+--Turn zoomable box on by default - DONE
+--Take out global opacity - DONE
+--Allow panels to be dragged off-screen - DONE
+--Add home link left of "image" on panel; returns to 1st panel for prayerbook/undertext, and 2nd panel for the rest; also add link to 1st panel from second panel - DONE
+--Can "crop" go on the panel itself rather than global? - DONE
+
+--Change layer names to sth more intelligible, and terse (Will will send list)
+--SubLayer Object turns itself on/off in the wrong sequence (Turn layer off, then change opacity)
+--Author and work list; only first three are authors; add "unknown" and then have "Menaion," Saint Pyth, unknown A and B on the right
+--Make side panels collapsible - DONE - needs to be styled
+--When you select a different author in second intro panel, the original one stays highlighted too
+
+Phase 2 (Beyond the scholars):
+1. Searching tool for text content
+2. Importable style sheets
+3. Quickly disable/enable all the images
+4. Custom presets - page order, layer order (shareable)
+5. Performance issues
+6. Indication of what each layer name means
+
+(Prayer Book 028V-21r - really cool image)

@@ -1,0 +1,6 @@
+alb_marker{
+	border: none;
+	background: red;
+	opacity: 0.8;
+	filter: alpha(opacity=.8);
+}

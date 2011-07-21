@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/archie/!svn/ver/61/lib/Limiters
+END
+setLimits.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/archie/!svn/ver/18/lib/Limiters/setLimits.php
+END
+Limiters.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/archie/!svn/ver/60/lib/Limiters/Limiters.js
+END
+getLimits.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/archie/!svn/ver/18/lib/Limiters/getLimits.php
+END

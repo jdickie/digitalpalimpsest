@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><page>
+<value>094r-091v</value><doc base="094r-091v/1.0.0">
+<layer>365nm - UV</layer>
+<layer>445nm - Blue 1</layer>
+<layer>470nm - Blue 2</layer>
+<layer>505nm - Cyan</layer>
+<layer>530nm - Green 1</layer>
+<layer>570nm - Amber</layer>
+<layer>617nm - Orange</layer>
+<layer>625nm - Red 1</layer>
+<layer>700nm - Red 2</layer>
+<layer>735nm - IR 1</layer>
+<layer>870nm - IR 2</layer>
+<layer>Pseudo</layer>
+<layer>Sharpie</layer>
+<layer>Raking Blue Lt</layer>
+<layer>Raking Blue Rt</layer>
+<layer>Raking IR Lt</layer>
+<layer>Raking IR Rt</layer>
+<layer>Tungsten</layer>
+<layer>Color</layer>
+<layer>UV mono</layer>
+<layer>UV blue</layer>
+</doc><pagetext xmluri="094r-091v_Arch64r_TEI_Netz-Wilson.xml"></pagetext><auth>Arch64r</auth>
+</page>

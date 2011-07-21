@@ -1,0 +1,2 @@
+lat	lon	title	description	iconOffset
+300	0	anno	this is an anno			

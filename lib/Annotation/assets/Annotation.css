@@ -1,0 +1,118 @@
+/***
+ * Annotation.css
+ * Last Updated By: jdickie 10/20/08
+ * 
+ */
+.anno{
+	overflow: hidden;
+	width: 200px;
+	background-color: #6c6c6c;
+	color: #FFF;
+	/* for IE */
+  	filter:alpha(opacity=75);
+  	/* CSS3 standard */
+  	opacity:0.75;
+	z-index: 990;
+	position: absolute;
+}
+.annoWin{
+	color: #FFF;
+	padding: 0px;
+}
+.annoTextArea {
+	background-color: transparent;
+	background-color: #fff;
+	/* for IE */
+  	filter:alpha(opacity=100);
+  	/* CSS3 standard */
+  	opacity:1;
+	height: 100px;
+	width: 95%;
+	bottom: 0px;
+	padding: 2px;
+	color: #FFF;
+	color: #000;
+	z-index:999;
+}
+.annoText {
+	background-color: transparent;
+	/* for IE */
+  	filter:alpha(opacity=95);
+  	/* CSS3 standard */
+  	opacity:0.95;
+	height: 100px;
+	width: 95%;
+	bottom: 0px;
+	padding: 2px;
+	color: #FFF;
+}
+.annoHeader{
+	background-color: #aa0a0e;
+	height: 15px;
+	/* for IE */
+  	filter:alpha(opacity=200);
+  	/* CSS3 standard */
+  	opacity:2;
+	font-size: 14px;
+	padding: 1.2em;
+	margin: 0px 2px 0px 2px;
+	top: 0px;
+	padding: 2px;
+	color: #FFF;
+	cursor: pointer;
+}
+.saveField{
+	position:relative;
+	top:0px;
+	right:0%;
+	width:100%;
+}
+.annoSaveSelect{
+	position:relative;
+	width:6em;
+	top: 0px;
+	left: 10%;
+	
+}
+.annoButton {
+	font-size: 11px;
+	text-transform: uppercase;
+	padding: 0em 1em 0em 1em;
+}
+.annoImprint{
+	position: absolute;
+	background-color: #aa0a0e;
+	/* for IE */
+  	filter:alpha(opacity=60);
+  	/* CSS3 standard */
+  	opacity:0.6;
+	display: block;
+}
+
+.annoListEditBox {
+	background: #ccc;
+	margin-top: 10px;
+	position: relative;
+}
+
+.annoMarker{
+	display: inline;
+	font-size: 20px;
+	color: red;
+}
+
+.PrintView, .annoEditButton {
+	background: #aadde1;
+	float: right;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+.PrintView a, .annoEditButton a {
+	padding: 5px;
+	background-color: #aadde1;
+	border: 1px solid #feecc7;
+	color:#291f1a;
+}
+/*.PrintView a:hover, .annoEditButton a:hover {
+	background-color: #fff;
+}*/

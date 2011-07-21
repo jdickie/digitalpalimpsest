@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/archie/!svn/ver/37/lib/LabelBox
+END
+retrieveLabel.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/archie/!svn/ver/18/lib/LabelBox/retrieveLabel.php
+END
+LabelBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/archie/!svn/ver/37/lib/LabelBox/LabelBox.js
+END
+saveLabel.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/archie/!svn/ver/18/lib/LabelBox/saveLabel.php
+END

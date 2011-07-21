@@ -1,0 +1,108 @@
+10
+
+dir
+378
+http://peach.umd.edu/svn/archie/jquery/development-bundle
+http://peach.umd.edu/svn/archie
+
+
+
+2009-12-18T21:53:48.044284Z
+225
+jdickie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f80c331-4431-43cf-9818-4db1cf6ed327
+
+GPL-LICENSE.txt
+file
+
+
+
+
+2009-06-12T08:20:44.000000Z
+2c1778696d3ba68569a0352e709ae6b7
+2009-12-18T21:53:48.044284Z
+225
+jdickie
+has-props
+
+external
+dir
+
+AUTHORS.txt
+file
+
+
+
+
+2009-06-12T08:20:44.000000Z
+b65f1d3d103c505f8a3cfeb2484020ad
+2009-12-18T21:53:48.044284Z
+225
+jdickie
+has-props
+
+version.txt
+file
+
+
+
+
+2009-06-12T08:20:44.000000Z
+98bc058536e19583bb912fec9d179629
+2009-12-18T21:53:48.044284Z
+225
+jdickie
+has-props
+
+themes
+dir
+
+MIT-LICENSE.txt
+file
+
+
+
+
+2009-06-12T08:20:44.000000Z
+903f088d5a213029bb84011ac259fc44
+2009-12-18T21:53:48.044284Z
+225
+jdickie
+has-props
+
+demos
+dir
+
+docs
+dir
+
+jquery-1.3.2.js
+file
+
+
+
+
+2009-06-12T08:20:44.000000Z
+e4af2b4805203f1ac490ad67531b848b
+2009-12-18T21:53:48.044284Z
+225
+jdickie
+has-props
+
+ui
+dir
+

@@ -1,0 +1,171 @@
+/*
+ * For displaying ViewPreferences Window
+ * 
+ * Remaining classes are in ProjectBar.css
+ */
+#annoNewCancel{
+	
+}
+.anno_window{
+	height: 360px;
+	width: 850px;
+	display:none;
+}
+.annoInBckGrnd{
+	position: relative;
+	left: 13%;
+	top: 90px;
+	width: 850px;
+	background-color:#a4001d;
+	background: #5b5b5b url('../images/bkgd_window.gif') repeat-x;
+	border: 2px solid #fff;
+	display: none;
+	font-size: 14px;
+	color: white;
+	height: 330px;
+	z-index: -1;
+}
+.anno_window_body {
+	padding: 10px;
+}
+.anno_window_select {
+	background: #fff;
+	border: 1px solid #4481bb;
+	height: 200px;
+	overflow: auto;
+	color: black;
+}
+.anno_window_select_error {
+	background: #fff;
+	border: 1px solid #ff0000;
+	height: 200px;
+	overflow: auto;
+}
+.anno_window_select a {
+	/*display: block;*/
+	padding: .25em;
+	font-size: 12px;
+	color: #2c2c2c;
+}
+
+.anno_window_select a:hover {
+	background: #d7e3f4;
+}
+
+.anno_window_selected {
+	background: #d7e3f4;
+}
+
+.anno_window_closebar {
+	background: #8b0018;
+	border-bottom: 1px solid #4481bb;
+	color: #FFF;
+	height: 40px;
+	padding: 0 10px;
+	line-height: 40px;	
+}
+
+.anno_window_close {
+	float: right;
+	line-height: 40px;
+	padding-right: 24px;
+	background: url('../images/window_close.gif') no-repeat right;
+	cursor: pointer;
+}
+.newAnnoWindow{
+	width:600px;
+	position:relative;
+	height: 240px;
+	
+}
+ .viewPref_button_Disabled{
+ 	text-transform: uppercase;
+	float: right;
+	color: #4481bb;
+	background: #779bff;
+	border: 1px solid #4481bb;
+	padding: .25em 1.25em;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	cursor: pointer;
+	border: 2px solid #fff;
+	filter: alpha(opacity=60);
+	opacity:0.6;
+ }
+ .anno_radio{
+ 	color: #fff;
+	background-color: #E3E4D9;
+	margin-top:3.5px;
+	padding: 1em;
+ }
+.annoWarn{
+	position: relative;
+	
+}
+.annoDelItem, .annoSecure{
+	float: left;
+	width: 40%;
+	font-size: 10px;
+	margin: 10px 0;
+	padding: 0 10px;
+}
+.annoDelItem a, .annoSecure a {
+	display: block;
+	margin: 0 auto;
+	padding: 5px;
+	border: 1px solid #999;
+	background: #ddd;
+	width: 100px;
+	text-align: center;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+.annoSecure{
+	margin-right: 20px;
+}
+.annoNotify{
+	background: #b9422e;
+	color: #555;
+	border-bottom: 1px solid #bbb;
+	padding: 5px;
+}
+.annoWarnButton {
+	padding: 5px;
+	border: 1px solid #999;
+	background: #ddd;
+	margin: 5px;
+	cursor: pointer;
+}
+
+.viewForm {
+	margin-top: 10px;
+	padding-bottom:2px;
+}
+.viewChoice, .viewChoice_hl{
+	padding: 5px 10px;
+	background: #987667;
+	color:#feecc7;
+}
+.viewChoice:hover {
+	background: #bda296;
+	color:#291f1a;
+	cursor:pointer;
+}
+.viewChoice_hl {
+	background: #D2B89C;
+	color:#291f1a;
+}
+
+.newAnnoWindow .init_text {
+	width: 50%;
+}
+
+.setName {
+	font-weight: bold;
+	margin: 0;
+}
+.setDetails {
+	font-size: 11px;
+}

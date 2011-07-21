@@ -1,0 +1,117 @@
+10
+
+dir
+378
+http://peach.umd.edu/svn/archie/jquery/development-bundle/demos
+http://peach.umd.edu/svn/archie
+
+
+
+2009-12-18T21:53:48.044284Z
+225
+jdickie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f80c331-4431-43cf-9818-4db1cf6ed327
+
+resizable
+dir
+
+show
+dir
+
+toggle
+dir
+
+slider
+dir
+
+removeClass
+dir
+
+switchClass
+dir
+
+progressbar
+dir
+
+tabs
+dir
+
+effect
+dir
+
+demos.css
+file
+
+
+
+
+2009-06-12T08:20:38.000000Z
+2e2ec04700af4ac5681a956cfe405c47
+2009-12-18T21:53:48.044284Z
+225
+jdickie
+has-props
+
+dialog
+dir
+
+accordion
+dir
+
+selectable
+dir
+
+images
+dir
+
+toggleClass
+dir
+
+droppable
+dir
+
+draggable
+dir
+
+hide
+dir
+
+index.html
+file
+
+
+
+
+2009-12-17T18:58:16.000000Z
+b05060c40fd9dd154b0fe017c1c10085
+2009-12-18T21:53:48.044284Z
+225
+jdickie
+has-props
+
+datepicker
+dir
+
+sortable
+dir
+
+animate
+dir
+
+addClass
+dir
+

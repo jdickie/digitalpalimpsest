@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/archie/!svn/ver/33/lib/openlayerscode/tools
+END
+shrinksafe.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/archie/!svn/ver/33/lib/openlayerscode/tools/shrinksafe.py
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/archie/!svn/ver/33/lib/openlayerscode/tools/release.sh
+END
+update_dev_dir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archie/!svn/ver/33/lib/openlayerscode/tools/update_dev_dir.sh
+END
+exampleparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/33/lib/openlayerscode/tools/exampleparser.py
+END
+jsmin.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/archie/!svn/ver/33/lib/openlayerscode/tools/jsmin.py
+END
+toposort.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/archie/!svn/ver/33/lib/openlayerscode/tools/toposort.py
+END
+jsmin.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/archie/!svn/ver/33/lib/openlayerscode/tools/jsmin.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/archie/!svn/ver/33/lib/openlayerscode/tools/README.txt
+END
+mergejs.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/archie/!svn/ver/33/lib/openlayerscode/tools/mergejs.py
+END
+minimize.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/archie/!svn/ver/33/lib/openlayerscode/tools/minimize.py
+END
+oldot.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/archie/!svn/ver/33/lib/openlayerscode/tools/oldot.py
+END
+BeautifulSoup.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/33/lib/openlayerscode/tools/BeautifulSoup.py
+END

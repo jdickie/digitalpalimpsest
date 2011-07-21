@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/archie/!svn/ver/377/lib/ArchSelect
+END
+createOverTextManifest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archie/!svn/ver/215/lib/ArchSelect/createOverTextManifest.php
+END
+ArchSelect.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/archie/!svn/ver/373/lib/ArchSelect/ArchSelect.php
+END
+createUndertextManifest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archie/!svn/ver/72/lib/ArchSelect/createUndertextManifest.php
+END
+ArchSelect.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/archie/!svn/ver/398/lib/ArchSelect/ArchSelect.js
+END
+createContentsManifest.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archie/!svn/ver/66/lib/ArchSelect/createContentsManifest.php
+END

@@ -1,0 +1,101 @@
+#return{
+}
+.registration{
+	background: #805947;
+	color: #feecc7;
+	padding: 10px;
+	width: 50%;
+	position:absolute;
+	top:0px;
+	#top:-18px;
+	clear:both;
+}
+.registration label {
+	font-size: 10px;
+	color: #d2b89c;
+	text-transform: uppercase;
+	display: block;
+}
+label .opt {
+	font-size: 9px;
+	color: #cabab3;
+}
+.required{
+	float: left;
+}
+.optional{
+	float: left;
+	margin-left: 50px;
+	width: 150px;
+}
+.regsubmit{
+	margin-top: 20px;
+	text-align: right;
+	padding: 10px;
+	background: #d2b89c;
+}
+.regsubmit input {
+	font-size: 13px;
+}
+
+.regFormItem{
+}
+
+.clear {
+	clear: both;
+}
+
+#recaptcha_area {
+	background: #fff;
+	width: 440px;
+}
+.captcha {
+	margin-top:5px;
+}
+.cancelreg, .submit {
+	cursor:pointer;
+}
+.infoBoxReg{
+	background: none;
+	color: #291f1a;
+	font-size: 13px;
+	font-weight: bold;
+	position: absolute;
+	right: 10px;
+	top:50px;
+}
+
+/* ---------------------------------------------- '.' ---------------------------------------------- */
+.registration h3,  {
+	#font-size:15px;	
+}
+.registration p {
+	#font-size:12px;
+}
+
+h3.regFormItem {
+	width: 550px;
+	padding: 5px 10px;
+	margin-left: 10px;
+	font-weight: bold;
+}
+input.regFormItem, textarea.regFormItem, select.regFormItem {
+	font-size: 18px;
+	padding: 3px;
+	border: 2px solid #e9dab9;
+	color: #291f1a;
+	margin-bottom: 10px;
+}
+textarea.regFormItem {
+	font-size: 14px;
+	width: 510px;
+	height: 55px;
+}
+select.regFormItem {
+	font-size: 14px;
+}
+
+input.small {
+	font-size: 14px;
+}
+
